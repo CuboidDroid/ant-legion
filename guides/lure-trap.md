@@ -12,7 +12,7 @@ As soon as the event starts, we need to be creating and filling rallies.
 
 People with large rally sizes (1 mil +) should consider creating rallies as soon as possible, __but not with their strongest march__! (see additional information below for the reason why). 
 
-Rallies can be spaced out a little, but the key here is to *ensure that there is always room for people to join a rally*. If there is no room in the available rallies and you haven't yet created a rally, then do so (even if your size is < 1 mil). It is important to ensure that we're always able to send out all our damage dealers we possibly can, as quickly as we can.
+Rallies can be spaced out a little, but the key here is to *ensure that there is always room for people to join a rally*. If there is no room in the available rallies and you haven't yet created a rally, then wait a few seconds first, then do so (even if your rally size is < 1 mil). It is important to ensure that we're always able to send out all our damage dealers we possibly can, as quickly as we can.
 
 After this initial flurry of rallies being created, we all just sit around until the 25:00 mark, which is when the first rallies will actually march...
 
