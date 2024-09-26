@@ -2,7 +2,7 @@
 
 Nest Defense is an alliance event and, similar to the [Lure Trap](lure-trap.md) event, is pretty-much all about damage output. The tactics used to maximise our effectiveness are different to the Lure Trap event though, so if you want to know how to do it "right" (or at least "better"), read on...
 
-By the way, Nest Defense is the one with the yellow circles and is not to be confused with Predator Invasion, which is the one where spiders invade your nest. The way I remember which is which is in Predator *Invasion*, my nest gets *invaded*, and this is the other one ;)
+By the way, Nest Defense is the one with the yellow circles and is not to be confused with Predator Invasion, which is the one where spiders invade your nest. The way I remember which is which is in Predator *Invasion*, my nest gets *invaded*, and this is the other one :stuck_out_tongue_winking_eye:
 
 The basic idea is that once the event is started, yellow circles will appear on the map in and near our alliance territory, and a 5 minute countdown will start. At the end of the 5 minutes, an enemy will appear in all of the circles except for one. That last empty circle is where the "boss" at the end of each stage will appear. We clear a stage by firstly killing all of the smaller bugs, immediately after which a boss will appear in its own circle, then we kill that too. As soon as the boss is dead, the next stage immediately begins. 
 
