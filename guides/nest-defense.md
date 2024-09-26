@@ -35,7 +35,21 @@ In the early phases the _**Minions**_ won't take much to kill - in fact it's not
 
 ### Instructions for `Crowd Control` in Phase 2
 
-To help us get through the first few phases as quickly as possible,
+To help us get through the first few phases as quickly as possible, leave the _**Boss**_ to the `Assassin`!
+
+Really! I mean it! Don't attack the boss until you're told to - the `Assassin` can do it alone, and all you'll be doing is tying up one or more of your marches for a minute, which means you will be far less helpful on clearing the _**Minions**_.
+
+Your job is to clear the _**Minions**_!
+
+When things run smoothely, this is how it goes in Phase 2.
+
+* _**Minions**_ appear. You immediately send out your marches to kill them.
+* Approximately 30 seconds later, the _**Minions**_ are all dead and the _**Boss**_ appears.
+* Your marches return to your nest over the next 30 seconds, and simultaneously the `Assassin` sends out their march to kill the _**Boss*_.
+* Approximately 30 seconds later, your marches are all back in your nest and the `Assassin` one-shots the _**Boss**_.
+* The next wave of _**Minions**_ appear. You immediately send out your marches to kill them... rinse, repeat!
+
+Once the `Assassin` either can no longer take care of the boss themself, or at a pre-agreed level, we'll move to Phase 3. Usually this is level 7 or later - and is where even the _**Minions**_ start getting harder to kill...
 
 ### Instructions for `Assassin` in Phase 2
 
