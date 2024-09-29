@@ -58,3 +58,7 @@ And that's it! That's how to get through Lure Trap effectively, maximising damag
 - **The time it takes for a rally to march from a nest to the trap matters**. Ideally our players who are usually online and have large rally sizes should have their nests nearest the trap. If you're seldom online for this event, or have small rally size, *__please consider moving__* to make room for players who are usually there and/or have larger rally sizes.
 - To increase your rally size, **keep upgrading your Rally Ground building** in your nest.
 - If you have spare in your bag, and/or want to up your personal damage output / points, **consider using an ATK +X% boost** item for the duration of the event.
+
+---
+
+[Other guides and stuff](../README.md)
