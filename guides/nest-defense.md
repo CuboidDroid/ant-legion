@@ -41,15 +41,44 @@ Really! I mean it! Don't attack the boss until you're told to - the `Assassin` c
 
 Your job is to clear the _**Minions**_!
 
-When things run smoothely, this is how it goes in Phase 2.
+When things run smoothely, this is how it goes for `Crowd Control` members in Phase 2.
 
 * _**Minions**_ appear. You immediately send out your marches to kill them.
 * Approximately 30 seconds later, the _**Minions**_ are all dead and the _**Boss**_ appears.
-* Your marches return to your nest over the next 30 seconds, and simultaneously the `Assassin` sends out their march to kill the _**Boss*_.
+* Your marches return to your nest over the next 30 seconds, and simultaneously the `Assassin` sends out their march to kill the _**Boss**_ (_please_ leave the _**Boss**_ to the `Assassin` and use your marches on the _**Minions**_ only as this will be the most efficient approach)
 * Approximately 30 seconds later, your marches are all back in your nest and the `Assassin` one-shots the _**Boss**_.
 * The next wave of _**Minions**_ appear. You immediately send out your marches to kill them... rinse, repeat!
 
-Once the `Assassin` either can no longer take care of the boss themself, or at a pre-agreed level, we'll move to Phase 3. Usually this is level 7 or later - and is where even the _**Minions**_ start getting harder to kill...
+Once the `Assassin` either can no longer take care of the _**Boss**_ by themself, or at a pre-agreed level, we'll move to Phase 3. Usually this is level 7 or later - and is where even the _**Minions**_ start getting much harder to kill...
 
 ### Instructions for `Assassin` in Phase 2
 
+If you're the `Assassin`, your primary focus is to kill the _**Boss**_ as quickly and efficiently as possible until such a point where you no longer can. This is an important role, and your responsibilities are straight-forward...
+
+The most important rule for you as the nominated `Assassin`, especially at the start, is to leave the _**Minions**_ to everyone else. Save your strongest march for the boss! While everyone else is killing the little guys in round 1, you should be finding the extra empty yellow circle where the _**Boss**_ will appear, and watch it like a hawk, ready to send out your strongest march as quickly as possible _**the instant it appears**_!
+
+Remember, we want to minimise wasted time - so as soon as it appears you need to send as quick as possible so that as close as we can to 30 seconds later, everyone else can send out their marches for the next wave of _**Minions**_.
+
+If you've made the mistake of sending out your march(es) to take out the small guys, you're not going to react quickly enough to kill the _**Boss**_ during the time it takes everyone's march(es) to return - so show self-restraint, and leave the small fry to your team to mop up.
+
+If you have lots of troops and marches, then you could send out your weaker marches to kill small guys too, but bear in mind that when you send them out, they won't be back for at least 60 seconds... so if you think you'll need more than 1 march to kill the boss at, say, stage 6, then you should not send out your second strongest march on stage 5 because it won't get back in time.
+
+If you mess up at any point, ask others to cover for you - someone else might be able to take over the `Assassin`'s duties at short-notice.
+
+When things run smoothely, this is how it goes for the `Assassin` in Phase 2.
+
+* _**Minions**_ appear. Everyone else in `Crowd Control` immediately send out their marches to kill them.
+* Approximately 30 seconds later, the _**Minions**_ are all dead and the _**Boss**_ appears.
+* You (the `Assassin`) immediately send out your strongest march to kill the _**Boss**_.
+* Approximately 30 seconds later, your march one-shots the _**Boss**_, and all of the `Crowd Control` marches have returned to their nest, ready to send out again.
+* The next wave of _**Minions**_ appear. Everyone else in `Crowd Control` immediately send out their marches to kill them... rinse, repeat!
+
+Once you, the `Assassin`, either can no longer take care of the _**Boss**_ yourself, or at a pre-agreed level (if you know in advance how many _**Boss**_ phases you can solo), we'll move to Phase 3. Usually this is level 7 or later - and is where even the _**Minions**_ start getting harder to kill...
+
+## Phase 3 - when the `Assassin` needs assistance too
+
+If everything has gone like clockwork, we should have cleared the first 7 waves or so and have approximately 15 minutes left, and those stupid bugs are getting quite tough - tough enough that our `Assassin` needs some assistance in clearing the _**Boss**_. Chances are there will also start being _**Minions**_ that take more than one hit for people to clear.
+
+Eventually it's going to be a case of just getting your marches out and killing everything in sight. If you're one of the stronger players, between marches take a look at which enemies have the highest amount of hit-points left, and help on those, and if they are all close to dead, and others are already en-route, then consider holding back a couple of your marches for the next boss instead.
+
+When the clock runs out, the event is over. Hopefully this guide has helped you have a successful one, or given you some pointers for where you might improve how your alliance runs this event. Don't forget to pick up those juicy rewards! :grin:
