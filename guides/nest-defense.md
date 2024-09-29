@@ -82,3 +82,7 @@ If everything has gone like clockwork, we should have cleared the first 7 waves 
 Eventually it's going to be a case of just getting your marches out and killing everything in sight. If you're one of the stronger players, between marches take a look at which enemies have the highest amount of hit-points left, and help on those, and if they are all close to dead, and others are already en-route, then consider holding back a couple of your marches for the next boss instead.
 
 When the clock runs out, the event is over. Hopefully this guide has helped you have a successful one, or given you some pointers for where you might improve how your alliance runs this event. Don't forget to pick up those juicy rewards! :grin:
+
+---
+
+[Other guides and stuff](../README.md)
